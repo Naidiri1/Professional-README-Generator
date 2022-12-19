@@ -51,10 +51,11 @@ function generateMarkdown(data) {
   ${data.test}
 
   ## Questions 
-  make it mailto link
-  ${data.email}
+ (mailto:${data.email})
+ 
   Make github link so when they click, it takes them to the github profile
-  ${data.github}
+ 
+  (https://github.com/${data.github})
 
   ## Contribution
   ${data.contribution}
