@@ -1,4 +1,4 @@
-# testing
+# Testing
 
   # Table of Contents 
   - [Installation](#installation)
@@ -10,25 +10,26 @@
   - [license](#license)
 
   ## Installation
-    fgf
+    with json
 
   ## Description 
-  testing
+  it is to test
 
   ## Usage 
-  d
+  install json 
 
   ## Tests
-  d
+  s
 
   ## Questions 
-  make it mailto link
-  d
+ (mailto:iridian95@live.com)
+ 
   Make github link so when they click, it takes them to the github profile
-  d
+ 
+  (https://github.com/Naidiri1)
 
   ## Contribution
-  d
+  jgis
 
   ## License
   ![GitHub license](https://img.shields.io/badge/license-Apache2.0-green.svg)
