@@ -24,8 +24,8 @@ This project is for everyone who is interested in using an app based on the comm
 
 The main reason of this app is to guide the user with specific questions to generate a Readme file, the user will have to open the command line and open the index.js using `node index.js` and there will be questions to guide the user: What is the name of your file?, What is the title of your project?, What is the description of your project?, How did you install your project?, How to use your project?, Do you want users to contribute to your project?, What test have you run in your application?, Enter your email so If other want to contact the user they will be redirect to open their email and send an email to the user, Enter your GitHub,if so the user will provide his username from Github and it will create a link to acces his repository, Choose a license for your project. Once everything  is answer automatically there will be a `Readme.md` created with the inputs of the user.
 
-![screenshot of the app](./images/screenshot.jpg)
-![sample readme](./images/samplereadme.jpg)
+![screenshot of the app](./assets/images/screenshot%20.jpg)
+![sample readme](./assets/images/samplereadme.jpg)
 
 - [Video of the app generating a sample of Readme file](https://app.castify.com/view/6b145d32-5259-4286-9a4c-216edfe5d4c1)
 
