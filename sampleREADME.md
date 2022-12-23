@@ -19,7 +19,7 @@
   The main page of this project is going to request a name of a movie from the user to look for information and a trailer, once the user chooses what movie to look for the user will press the button to search, and the user will be redirected to another page of resutls based on the movie searched, what the user will find in the results page will be infomration like: the name of the movie, plot, cast, language, run time, genre, rating based on Rotten Tomatoes and box office, and a trailer of the movie with the use of Youtube. These points of information and the trailer of the movie will be useful to the user to decide what movie to watch.
 
   ## Tests
-  Server Side Apis youtube and OMBd
+  Using Server side Apis youtube and Ombd
 
   ## Questions 
  - [Contact me](mailto:iridian95@live.com)
