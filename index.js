@@ -58,7 +58,7 @@ const questions = [
 ];
 // TODO: Create a function to write README file
 function writeFile(data) {
-fs.writeFile('Readme.md', generateMarkdown(data),(err) =>
+fs.writeFile(`${data.fileName}.md`, generateMarkdown(data),(err) =>
 err ? console.log(err) : console.log('Successfully created Readme!')
 )};
 // TODO: Create a function to initialize app
