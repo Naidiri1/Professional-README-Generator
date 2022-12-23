@@ -29,6 +29,8 @@ The main reason of this app is to guide the user with specific questions to gene
 
 - [Video of the app generating a sample of Readme file](https://app.castify.com/view/6b145d32-5259-4286-9a4c-216edfe5d4c1)
 
+[sample of the Readme Generator](./sampleREADME.md)
+
 ## Credits 
 
 N/A
